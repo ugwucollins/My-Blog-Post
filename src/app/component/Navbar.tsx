@@ -10,9 +10,9 @@ export default function Navbar() {
       <div className="flex flex-row justify-around place-content-center w-full p-4 max-[400px]:flex-col max-[400px]:justify-center max-[400px]:text-center">
         <div className="text-2xl font-bold stroke dark:text-slate-50/20">
           <div className="flex sm:gap-x-3 gap-x-1 flex-row max-[210px]:flex-col">
-            <Link href="/cc.png">
+            <Link href="/">
               <img
-                src="/cc.png"
+                src="/collins.png"
                 alt="Collins"
                 className="w-11 h-11 -mt-1 rounded-full"
               />
