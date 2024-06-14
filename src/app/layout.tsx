@@ -18,7 +18,6 @@ export default function RootLayout({
       {/* bg-gradient-to-t from-slate-200 to-white */}
       <body className="dark:bg-gradient-to-b dark:from-slate-800 dark:to-slate-400 dark:text-white min-h-screen">
         <Navbar />
-        <h1>Hello Blog</h1>
         <main>{children}</main>
       </body>
     </html>
