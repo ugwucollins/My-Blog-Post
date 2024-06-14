@@ -12,7 +12,7 @@
 A server is a sample of software or hardware that serves a specific service to its clients. Web servers, domain name servers, and mail servers are some of the example servers using by all network users. A client is a user program that connects to a server to access a service
 [Github page](https://github.com/ugwucollins?tab=repositories)
 
-
+## ![client logo](/client.jpg)
 
 #### The Second Reason for the Difference
 
